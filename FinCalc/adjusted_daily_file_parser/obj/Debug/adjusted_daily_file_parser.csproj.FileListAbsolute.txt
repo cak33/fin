@@ -1,0 +1,5 @@
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\adjusted_daily_file_parser\bin\Debug\adjusted_daily_file_parser.dll
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\adjusted_daily_file_parser\bin\Debug\adjusted_daily_file_parser.pdb
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\adjusted_daily_file_parser\obj\Debug\adjusted_daily_file_parser.csprojResolveAssemblyReference.cache
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\adjusted_daily_file_parser\obj\Debug\adjusted_daily_file_parser.dll
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\adjusted_daily_file_parser\obj\Debug\adjusted_daily_file_parser.pdb

@@ -1,0 +1,11 @@
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\bin\Debug\FinCalc.exe.config
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\bin\Debug\FinCalc.exe
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\bin\Debug\FinCalc.pdb
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\obj\Debug\FinCalc.csprojResolveAssemblyReference.cache
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\obj\Debug\FinCalc.Form1.resources
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\obj\Debug\FinCalc.Properties.Resources.resources
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\obj\Debug\FinCalc.csproj.GenerateResource.Cache
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\obj\Debug\FinCalc.exe
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\obj\Debug\FinCalc.pdb
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\bin\Debug\adjusted_daily_file_parser.dll
+C:\Users\kingstoc\Documents\Personal\fin\FinCalc\FinCalc\bin\Debug\adjusted_daily_file_parser.pdb
